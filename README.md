@@ -44,7 +44,8 @@ To generate a RPC URL, you can head over to Infura! Your RPC_URL should look som
 https://sepolia.infura.io/v3/9576ece978b44XXXXXXXXXXXX
 Replace the placeholder values with your actual RPC_URL and PRIVATE_KEY
 to  begin, head over to the index.js file!
-Next, head over to the //Part A - Input Token Configuration comment where you should observe that we have initialized 2 variables - USDC and LINK.
+
+# Next, head over to the //Part A - Input Token Configuration comment where you should observe that we have initialized 2 variables - USDC and LINK.
 change LINK and USDC contract addresschange LINK and USDC contract address
 ```bash
 LINK =0x779877A7B0D9E8603169DdbD7836e478b4624789
